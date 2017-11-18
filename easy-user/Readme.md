@@ -1,4 +1,4 @@
-# Spring Boot, H2, JPA, Hibernate Rest API Tutorial
+# Spring Boot, H2, JPA, Rest API 
 
 Build and run the app using maven**
 
